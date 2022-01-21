@@ -1,0 +1,5 @@
+*Estudar logica de Programação
+*Estudar algoritmos é variaveis
+*Estudar HTML
+*Estudar CSS
+*Estudar Java Script
